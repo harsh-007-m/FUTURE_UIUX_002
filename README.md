@@ -21,15 +21,6 @@ The interface promotes calmness and motivation using soft color palettes, clean 
 
 ---
 
-## 🖌️ Design Style
-
-- 🎨 **Color Palette:** Mint green and pink tones for calm and cozy look  
-- ✍️ **Typography:**  
-  - *Jersey 25* – energetic and bold for headings and brand 
-  - *Poppins* – clean and readable for UI text  
-
----
-
 ## 🧠 UX Focus
 
 - Encourages **positive reinforcement** with friendly text and streak progress  
@@ -44,7 +35,7 @@ The interface promotes calmness and motivation using soft color palettes, clean 
 - 🧱 **Figma** – for UI design, wireframing, and prototyping  
 - 🖼️ **Unsplash / Freepik** – for high-quality images and illustrations  
 - 🔤 **Google Fonts** – for free and web-safe typography  
-- 🪞 **IconScout** – for icons and visual polish
+- 🪞 **Pluggins from Figma** - for icons and emojis
 
 ---
 
