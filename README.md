@@ -5,23 +5,23 @@ MENTAL HEALTH / FITNESS APP UI DESIGN
 
 ---
 
-## 🔍 About
+## About Norm
 
 **Norm** is a minimalist, wellness-focused **habit tracker app** that helps users stay consistent with their mental and physical health goals.  
 The interface promotes calmness and motivation using soft color palettes, clean typography, and uplifting micro-interactions like *“Hurraayy!”* when a task is completed.
 
 ---
 *We have taken the user as Thanmai in this case which is a dummy name to help us understand how the user comprehends the app*
-## 🪶 Key Features
+## Key Features of Norm
 
-- 🏠 **Home Screen** – Displays motivational quote and quick navigation along with an overview of all their habits  
-- 📋 **Dashboard** – Lists daily habits with simple check interactions  
-- 💧 **Activity Detail** – Shows streaks, weekly progress, and task completion  
-- 👤 **Profile** – Displays user stats (current streak, longest streak, total habits completed)
+-  **Home Screen** – Displays motivational quote and quick navigation along with an overview of all their habits  
+-  **Dashboard** – Lists daily habits with simple check interactions  
+-  **Activity Detail** – Shows streaks, weekly progress, and task completion  
+-  **Profile** – Displays user stats (current streak, longest streak, total habits completed)
 
 ---
 
-## 🧠 UX Focus
+## UX Focus
 
 - Encourages **positive reinforcement** with friendly text and streak progress  
 - Designed with **mobile-first accessibility** in mind  
@@ -30,16 +30,16 @@ The interface promotes calmness and motivation using soft color palettes, clean 
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
-- 🧱 **Figma** – for UI design, wireframing, and prototyping  
-- 🖼️ **Unsplash / Freepik** – for high-quality images and illustrations  
-- 🔤 **Google Fonts** – for free and web-safe typography  
-- 🪞 **Pluggins from Figma** - for icons and emojis
+-  **Figma** – for UI design, wireframing, and prototyping  
+-  **Unsplash / Freepik** – for high-quality images and illustrations  
+-  **Google Fonts** – for free and web-safe typography  
+-  **Pluggins from Figma** - for icons and emojis
 
 ---
 
-## 📱 Screens Designed
+## Screens Designed
 
 1. **Home page**  
 2. **Dashboard page**  
@@ -51,7 +51,7 @@ The interface promotes calmness and motivation using soft color palettes, clean 
 
 ---
 
-## 💡 Notes
+##  Notes
 - Prototype fits **iPhone 16** dimensions.  
 
 ---
